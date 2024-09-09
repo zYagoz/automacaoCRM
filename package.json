@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "axios": "^1.7.7",
+    "nodemailer": "^6.9.15"
+  },
+  "name": "automation",
+  "description": "automação de mensagens no whatsapp a partir do RD STATION CRM",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
